@@ -79,7 +79,27 @@ module.exports = () => {
         'others/010.md',
         'others/011.md',
         'others/012.md',
+        'others/013.md',
+        'others/014.md',
+        'others/015.md',
+        'others/016.md',
+        'others/017.md',
+        'others/018.md',
+        'others/019.md',
+        'others/020.md',
+        'others/021.md',
+        'others/022.md',
+        'others/023.md',
+        'others/024.md',
+        'others/025.md',
       ]
-    }
+    },
+    {
+      title: 'JAVA 直通车',
+      collapsable: true,
+      children: [
+        'note-ztc/001.md'
+      ]
+    },
   ]
 }
